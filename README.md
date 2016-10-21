@@ -10,3 +10,8 @@
 ====================
 
 ### This program can be used in treasure hunting or in order to execute a prank, Unzip the file folder, change the location in the program and see the magic.
+
+#Draw figure
+======================
+
+###This program exploits the graphical capabilities of the python 'turtle' library. In this program I have added few simple figures like square, circle, triangle, rhombus as well as complex figures like flower, pattern etc.
