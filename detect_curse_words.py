@@ -9,6 +9,7 @@ def read_text():
 	check_profanity(data)
 
 def check_profanity(text_to_check):
+	#A function to check profanity
 	connection = urllib.urlopen("http://www.wydl.com?q="+text_to_check)
 	output = connection.read()
 	#to print output
